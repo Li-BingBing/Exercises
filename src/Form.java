@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Formula {
+public class Form {
     public static short[][] Exercise = new short[50][3];
     public static void produce(){    /*产生算式*/
         Random random = new Random();
